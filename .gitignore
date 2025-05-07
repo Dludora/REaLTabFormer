@@ -1,5 +1,5 @@
 poetry.lock
-
+.gitignore
 experiments/
 rtf*checkpoints/
 tests/realtabformer/data/
@@ -13,6 +13,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.ipynb
 
 # Distribution / packaging
 .Python
